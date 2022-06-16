@@ -1,4 +1,3 @@
-# alx Program
-
-## 0x01-git
+# vincenttommi
+## software development
 # alx-pre_course
